@@ -1,2 +1,1 @@
-# Software_engineering
-Empty project for trainining git
+HA! upravil jsem readme :D
